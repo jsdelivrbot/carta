@@ -1,0 +1,23 @@
+{
+  "name": "carta",
+  "homepage": "https://github.com/mwarizmiwafiq/carta",
+  "authors": [
+    "mwarizmiwafiq"
+  ],
+  "description": "hhmm",
+  "main": "index.html",
+  "keywords": [
+    "webgis"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dojo-util": "dojo/util#^1.13.0"
+  }
+}
